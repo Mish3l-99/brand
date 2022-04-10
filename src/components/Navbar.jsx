@@ -49,7 +49,7 @@ const Navbar = () => {
         className={
           MobNav
             ? "absolute bg-zinc-200 w-full px-4 sm:hidden duration-1000"
-            : "absolute bg-zinc-200 w-full px-4 sm:hidden ml-[-100%] duration-1000"
+            : "absolute bg-zinc-200 w-full px-4 sm:hidden ml-[-100%]"
         }
       >
         <ul>
